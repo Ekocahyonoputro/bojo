@@ -1,11 +1,11 @@
 {
-    "ownerNumber": ["622150996855@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
+    "ownerNumber": ["6285748029660@s.whatsapp.net","622150996855@s.whatsapp.net"],
+    "ownerName": "EKO BOTZ",
     "instagram" : "https://instagram.com/zeeoneofc",
     "botName": "Haruka-Mdོ ",
     "footer": "api.zeeoneofc.xyz",
     "sessionName": "session",
-    "pathimg": "./media/Haruka.jpg",
+    "pathimg": "./media/naruto-uzumaki-1-1024x653.webp",
     "BotKey": "Gsyt6jRJ",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
@@ -14,7 +14,7 @@
     "autorespond": false,
     "autoblok212": true,
     "autoread": true,
-    "gamewaktu": 90,
+    "gamewaktu": 30,
     "limitCount": 25,
     "gcount": {
         "prem": 1000,
